@@ -1,7 +1,11 @@
 import java.sql.*;  
 //继续试喔
 
+
 //写在update
+
+//in updateTest
+
 public class JavaH2 {  
     public void query(String SQL) {  
         try {  
