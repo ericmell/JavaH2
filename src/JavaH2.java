@@ -1,5 +1,5 @@
 import java.sql.*;  
-  
+//没什么，就是试一下github  
 public class JavaH2 {  
     public void query(String SQL) {  
         try {  
